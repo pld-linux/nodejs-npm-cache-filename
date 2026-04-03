@@ -2,7 +2,7 @@
 Summary:	Given a cache folder and url, return the appropriate cache folder
 Name:		nodejs-%{pkg}
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	ISC
 Group:		Development/Libraries
 #Source0:	http://registry.npmjs.org/nodejs-npm-cache-filename/-/%{pkg}-%{version}.tgz
